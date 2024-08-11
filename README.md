@@ -1,1 +1,1 @@
-# Programming-Project
+# Eye Rest Reminder Python project
